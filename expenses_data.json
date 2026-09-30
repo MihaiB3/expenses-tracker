@@ -1,0 +1,14 @@
+{
+  "expenses": [],
+  "goals": [
+    {
+      "id": "goal_1768216276056625700",
+      "name": "PC",
+      "target": 5000.0,
+      "saved": 225.0
+    }
+  ],
+  "settings": {
+    "budget": 1000.0
+  }
+}
